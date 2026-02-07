@@ -1,0 +1,20 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='640' height='280' viewBox='0 0 640 280'>
+<style>text{font-family:Arial, sans-serif;font-size:12px;fill:#111} .axis{stroke:#888;stroke-width:1} .line{fill:none;stroke:#0b5;stroke-width:2} .dot{fill:#0b5}</style>
+<rect width='640' height='280' fill='white'/>
+<line class='axis' x1='50' y1='230' x2='590' y2='230'/>
+<line class='axis' x1='50' y1='50' x2='50' y2='230'/>
+<polyline class='line' points='50.0,84.0 230.0,198.3 410.0,186.3 590.0,137.0'/>
+<circle class='dot' cx='50.0' cy='84.0' r='4'/>
+<text x='32.0' y='248'>Prev Month</text>
+<text x='26.0' y='76.0'>$77.69B</text>
+<circle class='dot' cx='230.0' cy='198.3' r='4'/>
+<text x='212.0' y='248'>Prev Week</text>
+<text x='206.0' y='190.3'>$72.46B</text>
+<circle class='dot' cx='410.0' cy='186.3' r='4'/>
+<text x='392.0' y='248'>Prev Day</text>
+<text x='386.0' y='178.3'>$73.01B</text>
+<circle class='dot' cx='590.0' cy='137.0' r='4'/>
+<text x='572.0' y='248'>Current</text>
+<text x='566.0' y='129.0'>$75.27B</text>
+<text x='50' y='24' style='font-size:14px;font-weight:bold'>USDC Supply (Adjusted to Official)</text>
+</svg>
