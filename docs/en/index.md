@@ -20,7 +20,19 @@ Circle began as a **payments/fintech company** and systematically pivoted into *
 
 ---
 
-## 2) Product & Platform Stack (What Circle Actually Sells)
+## 2) Coinbase Relationship (Critical Distribution + Economics)
+**Why it is essential:** Coinbase is one of the **largest distribution channels** for USDC and a key strategic partner. The relationship impacts **USDC circulation**, **market liquidity**, and **economics** (revenue‑sharing arrangements tied to USDC activity).
+
+**Implications for the thesis:**
+- **Distribution leverage:** Coinbase support materially boosts USDC adoption and liquidity.
+- **Economic sharing:** Revenue‑share structures on USDC reserves can **pressure margins** or **stabilize distribution**, depending on scale.
+- **Strategic alignment risk:** Any shift in Coinbase incentives or strategy (e.g., preferential treatment of alternatives) would directly affect USDC growth.
+
+**Bottom line:** Coinbase is not optional context—it is a **core lever** in USDC’s scale and Circle’s economics.
+
+---
+
+## 3) Product & Platform Stack (What Circle Actually Sells)
 **USDC (core asset):** Regulated USD stablecoin with full reserve backing. 
 **Mint/Redeem infrastructure:** On‑ramps for institutions to mint and redeem USDC at scale.  
 **Payments/Settlement network:** 24/7 stablecoin settlement for B2B, fintechs, and cross‑border flows.  
@@ -31,7 +43,7 @@ Circle began as a **payments/fintech company** and systematically pivoted into *
 
 ---
 
-## 3) Economic Engine (How the Business Makes Money)
+## 4) Economic Engine (How the Business Makes Money)
 **1) Reserve income (dominant driver)**  
 USDC reserves are held in cash and short‑duration Treasuries. As circulation grows, reserve assets scale and **interest income expands**. 
 - Earnings sensitivity = **USDC supply × rate environment**.
@@ -44,7 +56,7 @@ Large integrations (exchanges, wallets, fintechs, payment networks) reduce CAC a
 
 ---
 
-## 4) Why CRCL (Differentiated Advantages)
+## 5) Why CRCL (Differentiated Advantages)
 - **Regulatory credibility:** As frameworks formalize, capital flows to issuers that clear compliance gates (licensing, audits, transparency). Circle is structurally aligned for that outcome.
 - **Institutional distribution:** Deep integrations create switching costs and settlement stickiness.
 - **Protocol leverage:** USDC is increasingly a base money layer across chains and payment systems, a role with strong network effects.
@@ -52,7 +64,7 @@ Large integrations (exchanges, wallets, fintechs, payment networks) reduce CAC a
 
 ---
 
-## 5) Competitive Landscape (Positioning)
+## 6) Competitive Landscape (Positioning)
 - **USDT:** Scale leader but weaker regulatory posture → policy tightening could shift share toward compliant issuers.
 - **Bank‑issued stablecoins:** Strong distribution but slower innovation; may fragment liquidity across issuer silos.
 - **CBDC:** Long‑dated and politically complex; unlikely to fully displace private, programmable settlement rails near‑term.
@@ -61,7 +73,7 @@ Large integrations (exchanges, wallets, fintechs, payment networks) reduce CAC a
 
 ---
 
-## 6) Catalysts (12–24 Months)
+## 7) Catalysts (12–24 Months)
 1) **U.S. stablecoin framework clarity** (legislative/agency consolidation rewarding compliant issuance)
 2) **USDC circulation inflection** (sustained supply growth, especially in institutional settlement flows)
 3) **Tokenized assets adoption** (RWA/tokenized securities using USDC as settlement)
@@ -69,26 +81,28 @@ Large integrations (exchanges, wallets, fintechs, payment networks) reduce CAC a
 
 ---
 
-## 7) Principal Risks (Non‑Negotiable)
+## 8) Principal Risks (Non‑Negotiable)
 - **Regulatory delay or adverse terms** (bank‑favoring frameworks, yield restrictions, capital requirements)
 - **Competitive pressure** from USDT, bank‑issued stablecoins, or CBDC substitutes
 - **On/off‑ramp dependency** on legacy banking rails, limiting speed of adoption
 - **Market confidence event** (reserve transparency or liquidity shock) → rapid de‑peg risk
+- **Partner concentration risk** (e.g., Coinbase economics or distribution shifts)
 
 ---
 
-## 8) Monitoring Dashboard (What to Track)
+## 9) Monitoring Dashboard (What to Track)
 - **USDC in circulation (official Circle report)**
 - **Reserve composition & attestations**
 - **Regulatory milestones** (U.S. federal framework progress)
 - **Large‑scale partnerships** (payments, exchanges, banks, enterprise)
 - **Tokenized assets adoption** (settlement volume tied to USDC)
+- **Coinbase channel dynamics** (volume share, economics, public statements)
 
 **Latest official supply reference:** Circle’s most recent examination report (Dec‑2025) shows **USDC in circulation ~75–76B** range at month‑end. (Updated each report.)
 
 ---
 
-## 9) Evidence from Latest Research Run (Signal‑Only)
+## 10) Evidence from Latest Research Run (Signal‑Only)
 - **Policy discourse re‑accelerating** on U.S. market‑structure and payment‑stablecoin frameworks.
 - Regulators reiterating that **tokenized securities remain within existing securities law**, implying compliant infrastructure wins.
 - **Banking‑sector pushback** on yield and balance‑sheet impacts remains the primary policy bottleneck.
