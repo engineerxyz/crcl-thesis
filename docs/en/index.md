@@ -3,6 +3,9 @@
 ## Executive Summary
 Circle is positioned to become the **regulated utility layer of USD-denominated stablecoin settlement**. The investment case is a bet on (1) **regulatory formalization** of payment stablecoins in the U.S., (2) **USDC scaling as a settlement rail** for payments, markets, and tokenized finance, and (3) **reserve-income leverage** as circulation grows. The core edge is **compliance-grade issuance** plus **distribution via major institutions**, creating a defensible moat versus unregulated or offshore competitors.
 
+## Company Origin & Evolution (Why It Matters)
+Circle began as a **fintech payments company** and progressively pivoted into **stablecoin issuance and blockchain settlement**. That origin matters: Circle’s DNA is **compliance-first payments**, not speculative crypto. The company built its moat by pairing **regulatory licensing + reserve transparency** with **institutional distribution**, culminating in USDC becoming a mainstream, regulated stablecoin used across major exchanges, wallets, and payment flows.
+
 ## Business Model (Economic Engine)
 **1) Reserve income**  
 USDC is backed by cash and short-duration Treasuries. As circulation expands, **reserve assets scale**, and **interest income** becomes the primary profit driver. This makes the model **highly sensitive to (a) USDC supply and (b) rate environment**.
