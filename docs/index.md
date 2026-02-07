@@ -1,76 +1,48 @@
-# CRCL (Circle) 투자 논리 — Living Doc
+# CRCL (Circle) — Investment Thesis
 
-> 이 문서는 **정기 리서치 보고서**를 기반으로 계속 업데이트되는 “투자해야 하는 이유/논리”의 **중간 딥다이브** 버전이다.  
-> 핵심만 촘촘히 정리하고, 업데이트 때마다 논리의 강도/약점을 같이 점검한다.
+## Executive Summary
+Circle is positioned to become the **regulated utility layer of USD-denominated stablecoin settlement**. The investment case is a bet on (1) **regulatory formalization** of payment stablecoins in the U.S., (2) **USDC scaling as a settlement rail** for payments, markets, and tokenized finance, and (3) **reserve-income leverage** as circulation grows. The core edge is **compliance-grade issuance** plus **distribution via major institutions**, creating a defensible moat versus unregulated or offshore competitors.
 
-## 최근 변경 요약 (Changelog)
-- 2026-02-08: 문서 리빌드(딥다이브+핵심 요약형)
+## Business Model (Economic Engine)
+**1) Reserve income**  
+USDC is backed by cash and short-duration Treasuries. As circulation expands, **reserve assets scale**, and **interest income** becomes the primary profit driver. This makes the model **highly sensitive to (a) USDC supply and (b) rate environment**.
 
----
+**2) Payments & settlement infrastructure**  
+USDC functions as a **24/7 settlement rail** for fintechs, exchanges, and cross-border flows. This **reduces prefunding, cuts intermediary layers**, and materially improves working-capital efficiency.
 
-## 0) 투자 요약(1분)
-**CRCL은 ‘규제 준수형 달러 스테이블코인 발행+정산 인프라’의 표준 포지션을 노리는 기업**이다.  
-미국 규제 프레임이 명확해질수록 **준법 발행사의 신뢰 프리미엄**이 커지고,  
-USDC가 **글로벌 결제/정산 레이어**로 확장될수록 규모의 경제·네트워크 효과가 강화된다.
+**3) Platform and network effects**  
+Distribution partnerships (exchanges, wallets, payment networks) create **liquidity and reach**, driving a feedback loop: **more rails → higher circulation → stronger reserve economics → greater adoption**.
 
-**한 줄 결론:** 규제가 정리되는 구간에 **준법 스테이블코인 인프라의 ‘공식화’ 수혜**를 노리는 투자.
+## Why CRCL (Differentiated Advantages)
+- **Regulatory credibility**: As regimes formalize, capital flows to issuers that can clear compliance gates (licensing, reserves, audits). Circle is **structurally positioned** for that outcome.
+- **Institutional distribution**: Deep integration with major platforms increases **switching costs** and **settlement stickiness**.
+- **Protocol leverage**: USDC is increasingly a **base money layer** across blockchains and payment systems, a role with strong long-term network effects.
 
----
+## Key Catalysts (12–24 months)
+1) **U.S. stablecoin framework clarity**: Legislative/agency consolidation that rewards compliant issuance.
+2) **USDC circulation inflection**: Sustained supply growth, particularly in institutional settlement flows.
+3) **Tokenized assets growth**: If tokenized securities/RWA expand, **USDC becomes the settlement asset of choice**.
+4) **Enterprise payment adoption**: B2B settlement and cross-border usage scaling.
 
-## 1) 비즈니스 모델 & 수익 구조 (핵심)
-1) **USDC 발행(안정성/준법성 기반)**
-   - 준비금(현금+단기 국채 등)의 **이자 수익**이 핵심 수익원.
-   - **규모(USDC 유통량) × 금리 환경**이 실적을 좌우하는 구조.
+## Principal Risks
+- **Regulatory delay or adverse terms** (bank-favoring frameworks, yield restrictions, or capital requirements).
+- **Competitive pressure** from USDT, bank-issued stablecoins, or CBDC substitutes.
+- **On/off-ramp dependency** on legacy banking rails, limiting speed of adoption.
+- **Market confidence event** (reserve transparency or liquidity shock) → rapid de-peg risk.
 
-2) **결제/정산 인프라(USDC 기반)**
-   - B2B/핀테크/거래소의 **24/7 정산 수요**를 흡수.
-   - 전통 결제망의 시간/중개 비용을 줄이는 **프로토콜 레이어** 역할.
+## Monitoring Dashboard (What to Track)
+- **USDC in circulation (official Circle report)**
+- **Reserve composition & attestations**
+- **Regulatory milestones** (U.S. federal framework progress)
+- **Large-scale partnerships** (payments, exchanges, banks, enterprise)
+- **Tokenized assets adoption** (settlement volume tied to USDC)
 
-3) **생태계/파트너 확장 레버리지**
-   - 파트너가 늘수록 **유통량 증가 → 준비금 이익 증가**의 선순환.
-   - “규제 준수”가 파트너십 확대의 핵심 조건.
-
----
-
-## 2) 투자 논리(왜 CRCL인가)
-- **규제 수혜 구조**: 안정적/준법 스테이블코인 발행사에 규제 프레임이 유리하게 작동할 가능성.
-- **정산 레이어 전환**: 국경/시간 제약이 큰 기존 레일을 **USDC 기반 레일로 보완/대체**.
-- **네트워크 효과**: 파트너 증가 → 유통량 증가 → 준비금 이익 증가 → 파트너 선호 강화.
-- **토큰화 자산 확산의 결제 레이어 수요**: tokenized stock/RWA 확대 시 **USDC 결제 수요 증가**.
-
----
-
-## 3) 핵심 촉매 (앞으로 중요하게 볼 포인트)
-- **미국 규제 프레임 정착(법안/기관 가이드)**
-- **USDC 공급량 회복/증가 사이클**
-- **기관/기업 사용 사례 확대(결제/정산/온체인 금융)**
-- **토큰화 자산 확대 신호(규제/거래 인프라)**
+## Current Evidence (from latest research run)
+- Policy discourse shows **renewed momentum** on U.S. market-structure and payment-stablecoin frameworks.  
+- Regulators are increasingly explicit that **tokenized securities remain within existing securities law**, implying **compliant infrastructure wins** rather than gray-market rails.  
+- Banking-sector pushback on yield and balance-sheet impacts remains the **key policy bottleneck**.
 
 ---
 
-## 4) 리스크/반론 (같은 비중으로 기록)
-- **정책 지연/불확실성**: 은행권 이해관계로 법안 속도 저하 가능
-- **경쟁**: USDT, 은행 발행 스테이블, 혹은 CBDC 대안
-- **온·오프램프 병목**: 결국 은행 규제/정산망 의존
-- **시장 신뢰 이벤트**: 준비금/투명성 이슈 시 급락 리스크
-
----
-
-## 5) 핵심 지표 (정기 업데이트)
-- **USDC 공급량(공식 Circle 보고서 기준)**
-- **금리 환경 변화(준비금 이익에 직접 영향)**
-- **규제/법안 변경 사항 요약**
-- **주요 파트너십/사용 사례 변화**
-
----
-
-## 6) 최근 리서치 기반 관찰 (요약)
-- 미국 내 법안/정책 논의가 재가속되고 있으며, 규제 명확화는 준법 발행사에 유리.
-- SEC의 토큰화 증권 가이드가 “규제 내 편입” 방향으로 정리되는 흐름.
-- 은행권과의 이해관계(이자/수익 구조)가 확산 속도를 늦출 수 있음.
-
----
-
-## 업데이트 원칙
-- 매 보고서마다 **핵심 변화 → CRCL 영향 → 논리 보강/수정**을 반영
-- 불리한 정보(리스크/반론)도 동일하게 기록
+### Bottom Line
+CRCL is a **regulatory-aligned infrastructure play**: if the U.S. stabilizes payment-stablecoin rules, Circle can consolidate share as the **default compliant USD settlement layer**. The investment is therefore a wager on **regulatory clarity + USDC scale** rather than pure crypto beta.
