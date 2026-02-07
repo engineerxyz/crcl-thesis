@@ -65,6 +65,23 @@ Large integrations (exchanges, wallets, fintechs, payment networks) reduce CAC a
 - **FY2025 / Q4 results:** scheduled announcement (Feb 25, 2026).  
   Source: https://www.businesswire.com/news/home/20260121274739/en/Circle-to-Announce-Q4-and-Full-Fiscal-Year-2025-Financial-Results-on-February-25-2026
 
+
+## 4.6) S‑1 Highlights (Core Facts From IPO Filing)
+- **Scale & usage (as of 3/28/2025):** USDC lifetime onchain volume **$25T**; ~**$1T** minted & redeemed since founding.  
+  Source: https://www.sec.gov/Archives/edgar/data/1876042/000119312525070481/d737521ds1.htm
+- **USDC circulation:** **$43.9B** at **Dec 31, 2024** (with ~**4.3M** “meaningful wallets”).  
+  Source: S‑1 filing (same link)
+- **Mint / redeem activity (2021–2024):** ~**$504.3B minted** and **$464.4B redeemed** (one‑for‑one).  
+  Source: S‑1 filing
+- **Financial trajectory:** Revenue & reserve income scaled from **$15.4M (2020)** → **$84.9M (2021)** → **$772.0M (2022)** → **$1.5B (2023)** → **$1.7B (2024)**; **2024 net income $156M**; **Adj. EBITDA $285M**.  
+  Source: S‑1 filing
+- **Circle Mint scale:** **1,819 institutional customers** (as of Dec 31, 2024); global wire support in **185+ countries**.  
+  Source: S‑1 filing
+- **Ecosystem distribution:** Partnerships cited include **Coinbase**, Binance, Mercado Libre, Nubank, SBI, Coins.ph; liquidity partners and exchange/settlement integrations listed.  
+  Source: S‑1 filing
+
+> These points anchor the thesis in **filed disclosures**, not just market commentary.
+
 ## 5) Why CRCL (Differentiated Advantages)
 - **Regulatory credibility:** As frameworks formalize, capital flows to issuers that clear compliance gates (licensing, audits, transparency). Circle is structurally aligned for that outcome.
 - **Institutional distribution:** Deep integrations create switching costs and settlement stickiness.
