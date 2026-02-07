@@ -5,16 +5,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>CRCL (Circle) — Investment Thesis</title>
   <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin: 40px; line-height: 1.55; color: #111; }
-    h1 { font-size: 30px; margin-bottom: 8px; }
-    h2 { margin-top: 28px; font-size: 20px; }
+    :root {
+      --ink:#0f172a;
+      --sub:#475569;
+      --line:#e2e8f0;
+      --accent:#2563eb;
+      --bg:#ffffff;
+    }
+    body { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin: 0; background: var(--bg); color: var(--ink); line-height: 1.7; }
+    .wrap { max-width: 900px; margin: 56px auto; padding: 0 28px 80px; }
+    h1 { font-size: 32px; margin: 0 0 10px; letter-spacing: -0.2px; }
+    h2 { margin-top: 36px; font-size: 20px; color: var(--ink); }
+    p, li { color: var(--sub); }
     ul { margin: 8px 0 12px 20px; }
-    .lead { font-size: 16px; color: #222; }
-    .divider { height: 1px; background: #e5e5e5; margin: 20px 0; }
-    .label { font-weight: 600; }
+    .lead { font-size: 17px; color: var(--ink); }
+    .divider { height: 1px; background: var(--line); margin: 24px 0; }
+    .label { font-weight: 600; color: var(--ink); }
+    .badge { display:inline-block; font-size:12px; letter-spacing:.3px; text-transform:uppercase; color:#fff; background:var(--accent); padding:4px 8px; border-radius:6px; margin-bottom:10px; }
+    a { color: var(--accent); text-decoration: none; }
+    .muted { color: var(--sub); }
   </style>
 </head>
 <body>
+  <div class="wrap">
+  <span class="badge">Investment Thesis</span>
   <h1>CRCL (Circle) — Investment Thesis</h1>
   <p class="lead">Circle is positioned to become the <strong>regulated utility layer of USD‑denominated stablecoin settlement</strong>. The investment case is a bet on (1) <strong>regulatory formalization</strong> of payment stablecoins in the U.S., (2) <strong>USDC scaling as a settlement rail</strong> for payments, markets, and tokenized finance, and (3) <strong>reserve‑income leverage</strong> as circulation grows. The core edge is <strong>compliance‑grade issuance</strong> paired with <strong>institutional distribution</strong>, creating a defensible moat versus unregulated or offshore competitors.</p>
   <p><strong>Core thesis in one line:</strong> CRCL is a <strong>regulatory‑aligned infrastructure play</strong>—if the U.S. stabilizes payment‑stablecoin rules, Circle can consolidate share as the <strong>default compliant USD settlement layer</strong>.</p>
@@ -114,5 +128,6 @@
   <div class="divider"></div>
 
   <p><strong>Bottom line:</strong> CRCL is a <strong>regulatory‑aligned infrastructure play</strong>. If the U.S. stabilizes payment‑stablecoin rules, Circle can consolidate share as the <strong>default compliant USD settlement layer</strong>. The investment is therefore a wager on <strong>regulatory clarity + USDC scale</strong>, not pure crypto beta.</p>
+  </div>
 </body>
 </html>
