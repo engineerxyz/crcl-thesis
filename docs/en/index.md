@@ -56,6 +56,15 @@ Large integrations (exchanges, wallets, fintechs, payment networks) reduce CAC a
 
 ---
 
+
+## 4.5) IR / Filings Highlights (Public Company Data Points)
+- **Q2 2025 earnings press release:** USDC in circulation **$61.3B** at quarter‑end; total revenue & reserve income **$658M**; reserve income **$634M**.  
+  Source: https://s206.q4cdn.com/265218871/files/doc_financials/2025/q2/Q2-2025-Earnings-Press-Release.pdf
+- **Q3 2025 earnings press release:** USDC in circulation **$73.7B** at quarter‑end; total revenue & reserve income **$740M**; reserve income **$711M**; net income **$214M**.  
+  Source: https://s206.q4cdn.com/265218871/files/doc_earnings/2025/q3/earnings-result/3Q25-Earnings-Release.pdf
+- **FY2025 / Q4 results:** scheduled announcement (Feb 25, 2026).  
+  Source: https://www.businesswire.com/news/home/20260121274739/en/Circle-to-Announce-Q4-and-Full-Fiscal-Year-2025-Financial-Results-on-February-25-2026
+
 ## 5) Why CRCL (Differentiated Advantages)
 - **Regulatory credibility:** As frameworks formalize, capital flows to issuers that clear compliance gates (licensing, audits, transparency). Circle is structurally aligned for that outcome.
 - **Institutional distribution:** Deep integrations create switching costs and settlement stickiness.
